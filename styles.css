@@ -12,11 +12,35 @@ a {
   height: 10%;
 }
 .yoga {
-  
 }
-#maindiv{
-    display: grid;
-    grid-template-columns: 50% 50%;
-    width: 100%;
-    padding: 20px 16px;
+#maindiv {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  width: 100%;
+  padding: 20px 16px;
+}
+
+#button {
+  padding: 20px;
+  background-color: red;
+  color: white;
+  border-color: red;
+  border-radius: 10%;
+}
+#buttons {
+  padding: 20px 40px;
+  background-color: white;
+  color: red;
+  border-color: red;
+  border-radius: 10%;
+  margin: 0 auto;
+}
+
+#input {
+  color: dodgerblue;
+}
+
+h1 {
+  margin: 0 auto;
+  padding: 80px 70px;
 }
