@@ -1,0 +1,22 @@
+.navbar {
+  text-align: center;
+}
+
+a {
+  color: black;
+}
+.logo {
+  margin-right: 20%;
+  padding: 10px 40px;
+  width: 10%;
+  height: 10%;
+}
+.yoga {
+  
+}
+#maindiv{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    width: 100%;
+    padding: 20px 16px;
+}
